@@ -1,0 +1,4 @@
+git add 50 by 50 imzge.png
+git commit -m 'add png file'
+git remote add origin https://github.com/50 by 50 imzge.git
+git push -u origin master
